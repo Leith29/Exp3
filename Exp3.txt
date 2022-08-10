@@ -1,1 +1,2 @@
 In this experiment we are going to push and pull the file to github
+Updated the text for pull and push
